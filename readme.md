@@ -15,8 +15,7 @@ The goal of this project is to develop a system that allows users to view expens
 ![Screenshot 2024-12-14 170430](https://github.com/user-attachments/assets/ecaf61d7-aa60-4efa-9d37-f52e2d113c49)
 
 ## A Demo Video
-https://github.com/user-attachments/assets/919922b9-015a-4178-b649-02b2b74e68ad
-
+https://github.com/user-attachments/assets/09ee725b-2733-4920-9e47-12c1f8b107ae
 
 ## Skills Gained
 - **Integrating Mysql with python**
