@@ -16,12 +16,14 @@ This project is an expense management system that consists of a Streamlit fronte
 
 ## Skills Gained
 - **Integrating Mysql with python**
-- **Using Streamlit to design frontend**
+- **Using Streamlit to design frontend and making HTTP calls from frontent to backend**
+- **Used FastAPI as backend to run server**
 - **Managing HTTP requests with PostMan API**
 
 ## Project Explanation
 
 - These are the steps I followed in my project.
+- **Integrated MySQl with python**: Created a set of functions which is used for CRUD operations
 - **
 
 
