@@ -14,9 +14,15 @@ This project is an expense management system that consists of a Streamlit fronte
 ## My Streamlit App
 ![Screenshot 2024-12-14 170430](https://github.com/user-attachments/assets/ecaf61d7-aa60-4efa-9d37-f52e2d113c49)
 
+## Skills Gained
+- ** Integrating Mysql with python **
+- ** Using Streamlit to design frontend **
+- ** Managing HTTP requests with PostMan API **
+
 ## Project Explanation
 
 - These are the steps I followed in my project.
+- **
 
 
 ## Setup Instructions
